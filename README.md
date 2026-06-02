@@ -106,7 +106,7 @@ Hide Premium/ads/Happy Hour/friends bar, auto-accept daily bonus, quick menu, to
 ## Installation
 
 ### From Chrome Web Store
-*(Coming soon)*
+[Chrome extension store](https://chromewebstore.google.com/detail/ikax/jfblgehbndjaknhlklaphndpndefmnnh)
 
 ### Manual (Developer Mode)
 1. Clone or download this repository
