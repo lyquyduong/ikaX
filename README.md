@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://liberapay.com/IkaX/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
   <a href="https://www.buymeacoffee.com/ikax"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
   <a href="https://github.com/lyquyduong/ikaX/issues"><img src="https://img.shields.io/github/issues/lyquyduong/ikaX?style=for-the-badge" alt="Issues" /></a>
 </p>
